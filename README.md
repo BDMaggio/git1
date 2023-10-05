@@ -1,6 +1,7 @@
 # git1
 Primer repositorio
-
+https://teachablemachine.withgoogle.com/models/MOhjYW1qC/
+modelo de rorschach cafe
 
 <!DOCTYPE html>
 <html lang="en">
